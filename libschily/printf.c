@@ -30,6 +30,7 @@
 #include <schily/stdio.h>
 #include <schily/varargs.h>
 #include <schily/standard.h>
+#include <schily/types.h>
 #include <schily/schily.h>
 
 #ifndef	__no_undef__
